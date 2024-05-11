@@ -1,8 +1,10 @@
-import React from 'react'
+import Stories from "../stories/Stories";
 
 function Home() {
   return (
-    <div>Home</div>
+      <>
+        <Stories/>
+      </>
   )
 }
 
